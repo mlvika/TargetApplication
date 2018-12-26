@@ -1,0 +1,11 @@
+{
+    "main_class":"com.target.usecase.Consumer",
+    "main_jar": "streamingapp.jar",    
+    "log_level":"INFO",
+    "batch_size_seconds" : "2",
+    "processing_parallelism" : "1",
+    "checkpoint_path":"",
+    "input_topic": "avro.metrics",
+    "consume_from_beginning":"false",
+    "spark_submit_args": ""    
+}

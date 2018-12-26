@@ -1,0 +1,8 @@
+[
+    {
+        "name": "collectd.cpu"
+    },
+    {
+        "name": "collectd.memory"
+    }
+]

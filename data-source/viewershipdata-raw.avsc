@@ -1,0 +1,10 @@
+{"namespace": "cricket.viewership",
+ "type": "record",
+ "name": "event",
+ "fields": [
+     {"name": "timestamp",         "type": "long"},
+     {"name": "host_ip",           "type": "string"},
+     {"name": "location",          "type": "string"},
+     {"name": "viewership", "type": "string"},
+ ]
+}
