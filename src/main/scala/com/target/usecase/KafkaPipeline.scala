@@ -1,7 +1,7 @@
 package com.target.usecase;
 
-import com.cisco.pnda._
-import com.cisco.pnda.model._
+import com.target.usecase._
+import com.target.usecase.model._
 import org.apache.spark.streaming.dstream.DStream
 import org.apache.spark.streaming.StreamingContext
 import org.apache.spark.streaming.Seconds

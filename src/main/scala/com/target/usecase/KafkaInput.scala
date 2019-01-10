@@ -2,7 +2,7 @@ package com.target.usecase;
 
 import kafka.serializer.StringDecoder
 import kafka.serializer.DefaultDecoder
-import com.cisco.pnda.model._
+import com.target.usecase.model._
 import org.apache.spark.streaming.kafka.KafkaUtils
 import org.apache.spark.streaming.StreamingContext
 

@@ -1,6 +1,6 @@
 package com.target.usecase;
 
-import com.cisco.pnda._
+import com.target.usecase._
 import org.apache.spark.streaming.StreamingContext
 import org.apache.log4j.Logger;
 
