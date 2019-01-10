@@ -1,11 +1,3 @@
-/**
-  * Name:       DataPlatformEvent
-  * Purpose:    Data model class for an avro event on Kafka
-  * Author:     PNDA team
-  *
-  * Created:    07/04/2016
-  */
-
 package com.target.usecase.model;
 
 import java.io.IOException;

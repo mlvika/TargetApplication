@@ -1,11 +1,3 @@
-/**
-  * Name:       DataPlatformEventDecoder
-  * Purpose:    Encodes and secodes binary event data from kafka to/from a DataPlatformEvent object
-  * Author:     PNDA team
-  *
-  * Created:    07/04/2016
-  */
-
 package com.target.usecase.model;
 
 import java.io.ByteArrayOutputStream;

@@ -1,11 +1,3 @@
-/**
-  * Name:       StaticHelpers
-  * Purpose:    Helper functions
-  * Author:     PNDA team
-  *
-  * Created:    07/04/2016
-  */
-
 package com.target.usecase.model;
 
 import java.io.InputStream;
